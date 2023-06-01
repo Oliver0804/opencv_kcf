@@ -1,6 +1,9 @@
 # OpenCV KCF 追蹤器
+![https://github.com/Oliver0804/opencv_kcf/blob/main/pic/demo.gif](https://github.com/Oliver0804/opencv_kcf/blob/main/pic/demo.gif)
 
 這個專案展示了如何使用 OpenCV 的 KCF 追蹤器來追蹤目標。程式會在視窗中心以及追蹤區域的中心繪製一條線，並顯示這條線的長度以及視窗中心與追蹤區域中心的 x 與 y 軸的差值。
+
+
 
 ## 功能
 
