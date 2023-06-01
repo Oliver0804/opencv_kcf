@@ -1,0 +1,8 @@
+future==0.18.3
+lxml==4.9.2
+MAVProxy==1.8.62
+numpy==1.24.3
+opencv-contrib-python==3.4.16.59
+opencv-python==3.4.16.57
+pymavlink==2.4.39
+pyserial==3.5
